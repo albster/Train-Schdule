@@ -1,0 +1,61 @@
+html body div div {
+    text-align: center;
+   
+    
+}
+
+body {
+    /* background-image: url(../img/tile1.jpg); */
+    background-color: #ebebeb;
+
+}
+
+.jumbotron {
+    background-image: url(../img/target.svg);  
+    background-position: center;
+    text-align: center;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #777777;
+  color: white;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+
+}
+
+#train-table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: white;
+
+}
+
+
+input[type=text] {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+  }
+
+    button {
+        background-color: red;
+        margin: 0 auto;
+        display: block;
+        
+    }
+        
+    
